@@ -1,3 +1,3 @@
-# yt-downloader-script
+# YouTube Video Downloader Script
 
 ### YouTube Scrapper Script
